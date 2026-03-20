@@ -46,7 +46,7 @@ for i in range(n):
 ```
 
 ## Output:
-<img width="1484" height="761" alt="Mathsforai ex-6" src="https://github.com/user-attachments/assets/62b0668d-9bb5-4617-901d-6fedf99bce02" />
+![alt text](mathsforai-ex-6.png)
 
 
 
